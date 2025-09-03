@@ -1,0 +1,3 @@
+Note ID: 2 | Title: My First Real Note | Content: This note is linked to a user in the database!
+Note ID: null | Title: Test Title | Content: Test Content
+Note ID: 3 | Title: My Second  Note | Content: This note is linked to a user in the database!
